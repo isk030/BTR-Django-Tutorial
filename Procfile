@@ -1,1 +1,1 @@
-web: gunicorn BTR.wsgi --log-file -
+web: gunicorn btr.wsgi --log-file -
